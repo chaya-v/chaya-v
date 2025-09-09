@@ -8,7 +8,7 @@ To add
 
 * 🌍  I'm based in Los Angeles
 * ✉️  You can contact me at [chayav912@gmail.com](mailto:chayav912@gmail.com)
-* 🚀  I'm currently working on [My Apps](http://recipe.com)
+* 🚀  Here is my [portfolio](https://chayav.me/)
 * 🧠  I'm learning AWS
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I love Devil Wears Prada
