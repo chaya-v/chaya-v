@@ -1,9 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chaya Vijayakumar
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Chaya Vijayakumar
 =========================================================================================================================================
 
 * 🌍  I'm based in Los Angeles
-* 🧠  I'm learning AWS
-* 🤝  I'm open to collaborating on Projects. If you have an interesting project idea and want to collaborate, hit me up!
+* 🎓  Pursuing my Master's in Computer Science from University of Southern California, Graduating December 2026
+* 🧠  Currently leveling up my skills in Data Science and AI
+* 🤝  I love attending conferences revolving around Data and collaborating on innovative project ideas
+* 👩🏻‍💻  You will often find me leading technical clubs and volunteering with supportive Women communities
 * ✉️  You can contact me at [chayav912@gmail.com](mailto:chayav912@gmail.com)
 * 🚀  Here is my [portfolio](https://chayav.me/) for more details about me
 
