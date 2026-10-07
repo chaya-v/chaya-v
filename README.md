@@ -6,7 +6,7 @@
 
 * 🌍  I'm based in Los Angeles
     
-* 🧠  Currently leveling up my skills in Data Science and AI
+* 🧠  Currently leveling up my skills in Agentic AI
 
 * 👩🏻‍💻  Working on efficient retrieval strategies for RAG (Retrieval-Augmented Generation) systems
   
