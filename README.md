@@ -8,7 +8,7 @@
     
 * 🧠  Currently leveling up my skills in Agentic AI
 
-* 👩🏻‍💻  Working on efficient retrieval strategies for RAG (Retrieval-Augmented Generation) systems
+* 👩🏻‍💻  Experienced Software Engineer with 3 years of Data + Software Engineering. Intensive Backend and AWS experience. Currently working on efficient retrieval strategies for RAG (Retrieval-Augmented Generation) systems and exploring Agentic-AI frameworks.
   
 * 🤝  I love attending conferences revolving around Data and collaborating on innovative project ideas
   
